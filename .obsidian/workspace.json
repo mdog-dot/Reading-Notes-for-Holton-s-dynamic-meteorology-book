@@ -1,0 +1,350 @@
+{
+  "main": {
+    "id": "3bb12d470fcd0291",
+    "type": "split",
+    "children": [
+      {
+        "id": "e048fe419903ad34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "199b1d3a57ca6c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holton读书笔记-Chapter7斜压发展.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Holton读书笔记-Chapter7斜压发展"
+            }
+          },
+          {
+            "id": "6496c079ee22101d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter6/Holton读书笔记-Chapter6 准地转分析.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Holton读书笔记-Chapter6 准地转分析"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e5df844da43397",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b714244a12346",
+        "type": "tabs",
+        "dimension": 59.28143712574851,
+        "children": [
+          {
+            "id": "7408259d9b92b5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "42aa1a006d235dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "90e83fec3bb4e19b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "6f414b63460c8d34",
+            "type": "leaf",
+            "state": {
+              "type": "zhihu-slides-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "zhihu-slides-view"
+            }
+          },
+          {
+            "id": "df7a42b0953d049e",
+            "type": "leaf",
+            "state": {
+              "type": "zhihu-slides-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "zhihu-slides-view"
+            }
+          },
+          {
+            "id": "f81d0987a88a785e",
+            "type": "leaf",
+            "state": {
+              "type": "zhihu-slides-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "zhihu-slides-view"
+            }
+          },
+          {
+            "id": "ca13e85f6dbce729",
+            "type": "leaf",
+            "state": {
+              "type": "zhihu-slides-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "zhihu-slides-view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "98f0d4a0722ccaa3",
+        "type": "tabs",
+        "dimension": 40.7185628742515,
+        "children": [
+          {
+            "id": "a2ea7e19451c5b4f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "324c0b9d83c44a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Holton读书笔记-Chapter7斜压发展.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Holton读书笔记-Chapter7斜压发展 的大纲"
+            }
+          },
+          {
+            "id": "98695456d98030ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "61191f8ea8fb7606",
+    "type": "split",
+    "children": [
+      {
+        "id": "4294f9e389e0008a",
+        "type": "tabs",
+        "dimension": 36.87089715536105,
+        "children": [
+          {
+            "id": "6ad73b7dcf2a71b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter4/Holton读书笔记-Chapter4 环量、涡度和位涡.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Holton读书笔记-Chapter4 环量、涡度和位涡 的反向链接列表"
+            }
+          },
+          {
+            "id": "46b54befe5ed140b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4db3fae8e37536a5",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4fce416981e6cec9",
+        "type": "tabs",
+        "dimension": 63.12910284463894,
+        "children": [
+          {
+            "id": "ff606f034166944b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "2eb6db1a0dabc006",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "40d7cbe7945b1b5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "4354bd31fa04df0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "zhihu:Open Zhihu side view": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4db3fae8e37536a5",
+  "lastOpenFiles": [
+    "Chapter6/Holton读书笔记-Chapter6 准地转分析.md",
+    "Holton读书笔记-Chapter7斜压发展.md",
+    "Chapter5/Holton读书笔记-Chapter5 大气振荡（线性摄动理论）.md",
+    "Chapter1/Holton读书笔记-Chapter1 基本介绍.md",
+    "40 - Obsidian/附件/初始值法.png",
+    "Chapter4/Holton读书笔记-Chapter4 环量、涡度和位涡.md",
+    "Chapter7/未命名.md",
+    "Chapter7",
+    "Chapter6/压强倾向方程应用实例.png",
+    "Chapter6/斜压波的发展阶段.png",
+    "Chapter6/西风急流带-非地转环流.png",
+    "Chapter6/纬向风场时间平均.png",
+    "Chapter6/热带外气旋发展阶段.png",
+    "Chapter6/热带外气旋的增强.png",
+    "Chapter6/经向截面图.png",
+    "Chapter6/急流中的极大风.png",
+    "Chapter6/极锋示意图.png",
+    "Chapter2/Holton读书笔记-Chapter2 基础守恒律.md",
+    "Chapter3/Holton读书笔记-Chapter3 基本方程的初步应用.md",
+    "40 - Obsidian/附件",
+    "40 - Obsidian",
+    "Chapter6",
+    "Holton读书笔记-Chapter5 大气振荡（线性摄动理论）.md",
+    "Chapter5",
+    "Holton读书笔记-Chapter4 环量、涡度和位涡.md",
+    "Holton读书笔记-Chapter4 环量、涡度和位涡.md",
+    "Chapter4",
+    "00 - 每日日记/DailyNote/2022年05月09日.md",
+    "30 - 阅读笔记/00. 图书馆.md",
+    "40 - Obsidian/主页/00. 主页.md",
+    "10 - 人员管理/家人/秦某.md",
+    "00 - 每日日记/DailyNote/2023年08月01日.md",
+    "00 - 每日日记/DailyNote/2023年08月02日.md",
+    "00 - 每日日记/DailyNote/2023年08月11日.md",
+    "20 - 工作学习/学习/00. 学习.md",
+    "20 - 工作学习/工作/项目二.md",
+    "20 - 工作学习/工作/00. 工作.md",
+    "20 - 工作学习/代码库/Holton读书笔记-Chpater4 .md",
+    "20 - 工作学习/代码库/人生进度条.md",
+    "00 - 每日日记/DailyNote/2025年07月27日.md",
+    "00 - 每日日记/QuarterlyNote/2023年第3季度规划.md",
+    "homepage.setting.css",
+    "40 - Obsidian/脚本/tasksCalendar/view.js",
+    "40 - Obsidian/脚本/tasksCalendar/view.css",
+    "40 - Obsidian/脚本/QuickAdd/第二个js.js",
+    "未命名.canvas",
+    "Ideaverse Lite 1.5/未命名 1.canvas",
+    "Ideaverse Lite 1.5/未命名.canvas"
+  ]
+}
